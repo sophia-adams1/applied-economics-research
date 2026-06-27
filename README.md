@@ -1,4 +1,4 @@
-# Applied Economics & Policy Research Portfolio
+# Applied Economics & Policy Research Portfolio (R Programming)
 
 Welcome to my repository of core empirical tools for applied economic analysis. This portfolio showcases production-grade R scripts designed for public sector research, labour market analysis and macroeconomic policy evaluation. 
 
